@@ -1,0 +1,2 @@
+# PropiedadPosition
+Bitacora 2
